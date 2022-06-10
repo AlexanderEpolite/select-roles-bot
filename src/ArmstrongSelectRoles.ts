@@ -6,7 +6,17 @@ const components = require("../components.json");
 
 const worker = new SingleWorker({
     token: secrets.token,
-    intents: 131071,
+    intents: 33289, //guilds, guild messages, message content, guild emojis/stickers
+    cache: {
+        roles: true,
+        members: true,
+        messages: false,
+        channels: false,
+        users: false,
+        self: false,
+        guilds: true,
+        voiceStates: false,
+    }
 });
 
 worker.setStatus("listening", "It Has To Be This Way", "idle");
