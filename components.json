@@ -1,0 +1,96 @@
+{
+    "components": [
+        {
+            "type": 1,
+            "components": [
+                {
+                    "type": 3,
+                    "custom_id": "armstrong-select-menu",
+                    "options": [
+                        {
+                            "label": "Supply Chain Management",
+                            "value": "supply_chain_management",
+                            "description": "Get the Supply Chain Management role.",
+                            "emoji": {
+                                "name": "pensive_cowboy",
+                                "id": "984733188633002064"
+                            }
+                        },
+                        {
+                            "label": "Global Logistics Management",
+                            "value": "global_logistics_management",
+                            "description": "Get the Global Logistics Management role.",
+                            "emoji": {
+                                "name": "popeyesfriedchickensandwich",
+                                "id": "984931758246101072"
+                            }
+                        },
+                        {
+                            "label": "CIPS",
+                            "value": "cips",
+                            "description": "Get the role for CIPS",
+                            "emoji": {
+                                "name": "skull_monicle",
+                                "id": "984733050141286420"
+                            }
+                        },
+                        {
+                            "label": "CPIM",
+                            "value": "cpim",
+                            "description": "Get the role for CPIM",
+                            "emoji": {
+                                "name": "skull_slight_frown",
+                                "id": "984733030251900928"
+                            }
+                        },
+                        {
+                            "label": "CSCP",
+                            "value": "cscp",
+                            "description": "Get the role for CSCP",
+                            "emoji": {
+                                "name": "DoOHlziXgAAwHvP",
+                                "id": "984944614450528306"
+                            }
+                        },
+                        {
+                            "label": "CLTD",
+                            "value": "cltd",
+                            "description": "Get the role for CLTD",
+                            "emoji": {
+                                "name": "0rzpx6js3i421",
+                                "id": "984944799394168892"
+                            }
+                        },
+                        {
+                            "label": "CPSM",
+                            "value": "cpsm",
+                            "description": "Get the role for CPSM",
+                            "emoji": {
+                                "name": "skull_squared",
+                                "id": "984732994067644426"
+                            }
+                        },
+                        {
+                            "label": "6-Sigma",
+                            "value": "six-sigma",
+                            "description": "Get the 6-Sigma role",
+                            "emoji": {
+                                "name": "skull_think",
+                                "id": "984733066247413760"
+                            }
+                        },
+                        {
+                            "label": "Broker",
+                            "value": "broker",
+                            "description": "Get the Broker role",
+                            "emoji": {
+                                "name": "skullboy",
+                                "id": "984733013290156052"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

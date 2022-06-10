@@ -1,0 +1,10 @@
+
+.idea
+*.iml
+
+yarn.lock
+
+node_modules
+
+dist/
+secrets.json
